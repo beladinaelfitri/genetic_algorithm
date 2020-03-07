@@ -1,8 +1,7 @@
 # genetic_algorithm
 
 ## Basic Genetic Algorithm
-Genetic Algorithm implementation to find the minimum function of :
-(https://raw.github.com/beladinaelfitri/genetic_algorithm/master/function.JPG?raw=true "function.jpg")
+Genetic Algorithm implementation to find the minimum function of the function at function.jpg
 
 with range -3 <= x1 <= 3 and -2<= x2 <= 2
 
