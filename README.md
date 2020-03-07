@@ -2,7 +2,7 @@
 
 ## Basic Genetic Algorithm
 Genetic Algorithm implementation to find the minimum function of :
-
+https://github.com/beladinaelfitri/genetic_algorithm/blob/master/function.JPG
 
 with range -3 <= x1 <= 3 and -2<= x2 <= 2
 
